@@ -24,7 +24,7 @@ namespace Convertor_Sample
         /// Do not use the built-in .NET functionality.
         /// </summary>
 
-        //Local class Program variables
+        //Local variables
 
         static string input;
         static string comand;
